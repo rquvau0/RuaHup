@@ -10,7 +10,6 @@ Config =
             ["Auto Fully Mirror Fragtal"] = true,
             ["Purchase Hidden Sword"] = true,
             ["Purchase Legend Haki Color"] = true,
-            ["Max Fragments To Raid"] = {0}, -- just effect if player level isnt max / first arg: sea 2, sec arg: sea 3
             ["Fruit Hop"] = {
                 ["Enable"] = true,
                 ["Delay Per Server"] = 0
@@ -35,7 +34,7 @@ Config =
             ["White Screen"] = false,
             ["Auto Add Friends / Accept Requests"] = true,
             ["Anti Flagging"] = true,
-            ["Auto Hop If There Are Nearby Player When Level Farming"] = true,
+            ["Auto Hop If There Are Nearby Player When Level Farming"] = false,
             ["Enable Ui"] = false
         }
     } 
