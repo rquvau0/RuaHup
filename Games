@@ -8,19 +8,19 @@ _G.Config = {
         ["Godhuman"] = true
     },
     ["Sword"] = {
-        ["Saber"] = true,
-        ["Rengoku"] = true,
+        ["Saber"] = false,
+        ["Rengoku"] = false,
         ["Canvander"] = true,
-        ["Buddy Sword"] = true,
-        ["Yama"] = true,
-        ["Tushita"] = true,
+        ["Buddy Sword"] = false,
+        ["Yama"] = false,
+        ["Tushita"] = false,
         ["True Triple Katana"] = false,
-        ["Cursed Dual Katana"] = true
+        ["Cursed Dual Katana"] = false
     },
     ["Gun"] = {
-        ["Kabucha"] = true,
-        ["Acidum Rifle"] = true,
-        ["Serpent Bow"] = true
+        ["Kabucha"] = false,
+        ["Acidum Rifle"] = false,
+        ["Serpent Bow"] = false
     },
     ["Mastery"] = {
         ["Sword"] = true
